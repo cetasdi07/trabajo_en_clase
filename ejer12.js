@@ -1,0 +1,1 @@
+let operando1, operando2; //Es correcta porque solo estoy creando variables
